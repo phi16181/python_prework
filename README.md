@@ -1,20 +1,20 @@
 <b>Pre-work</b>
 
-In order for you to be successful in ML,  you need to understand how to utilize the Python programming language for data science and data analytics.  We’ll be using tools like R as well, but we’ll be starting our journey with Python so we’ve provided some resources to help you get started early. 
+In order for you to be successful in ML, you need to understand how to utilize the Python programming language for data science and data analytics. You might also be using tools like R as well, but you’ll be starting your journey with Python so I’ve provided some resources to help you get started early. 
 
-Before moving on, it is a great idea to come up to speed on some foundational concepts of data analytics so you can better understand 'how' we'll be using Python to solve problems within this space. <a href="https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf">Section One: Data Mining for the Masses</a> is a great place to start your pre-work reading. Note: Do not worry about the mention of RapidMiner and/or OpenOffice, but rather just focus on the content.
+Before moving on, it is a great idea to come up to speed on some foundational concepts of data analytics so you can better understand 'how' you'll be using Python to solve problems within this space. <a href="https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf">Section One: Data Mining for the Masses</a> is a great place to start your pre-work reading. 
 
-It is very important for you to understand that we are not using the Python programming language in the same manner that a software engineer would.  In other words,  you are not learning to be programmers in the certificate program,  but rather how to use Python to solve real-world data analytics and data science problems. We most certainly will be writing code,  but not in the same manor as someone that would be developing a piece of software would;  you'll begin to see some of this very soon in this pre-work and we will be following this same procedure throughout the first two courses of the program.
+It is very important for you to understand that we do not use the Python programming language in the same manner that a software engineer would.  In other words,  you are not learning to be programmers, per se, but rather how to use Python to solve real-world data analytics and data science problems. We most certainly will be writing code,  but not in the same manor as someone that would be developing a full piece of software would.
 
 <center><img src="images/jup.png" width="400" height="200" align="center"/></center>
 
-One of the main tools we will be using during the pre-work is called a Jupyter notebook.  As a matter of fact,  you are reading this very work in a Jupyter notebook! Click on <a href="https://www.youtube.com/watch?v=q_BzsPxwLOE&feature=emb_logo" target="new">this link</a> to learn more about this important tool!
+One of the main tools you will be using during the pre-work is called a Jupyter notebook.  As a matter of fact,  you are reading this very work in a Jupyter notebook! Click on <a href="https://www.youtube.com/watch?v=q_BzsPxwLOE&feature=emb_logo" target="new">this link</a> to learn more about this important tool!
 
 <center><img src="images/jupy1.png" width="600" height="400" align="center"/></center>
 
 <b>Environment Setup</b>
 
-Obviously, we will also be using Python extensively, but chances are you don't have python installed on your own machine just yet so we will be using a remote environment called Google Collaboratory to provide access to Python for now. In Course One, you’ll be setting up your own working environment so dont worry too much about doing so locally just yet. We've included an introduction to Google Collaboratory video for you below. Feel free to watch it and learn about Google Colab, but you do not need to view all the way to the end to hear about Tensorflow as that is a little beyond what youre ready to do just yet!
+Obviously, you will also be using Python extensively, but chances are you don't have python installed on your own machine so a good alternative is using a remote environment called Google Collaboratory to provide access to Python. Eventually, you’ll be setting up your own working environment so dont worry too much about doing so locally just yet. I've included an introduction to Google Collaboratory video for you below. Feel free to watch it and learn about Google Colab, but you do not need to view all the way to the end to hear about Tensorflow as that is a little beyond what youre ready to do just yet!
 
 <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="new">Click here for video</a>
 
@@ -34,7 +34,7 @@ Although you did not go through any installation processes, it still contains al
 
 <b>Help!</b>
 
-As a beginning Python user it is very common for students to ask for help so knowing where to do so and how to do so is vital to your success.  In this program, we have provided many different opportunities and ways for you to accomplish this,  but remember,  knowing how to solve problems on your own is key to being an excellent data scientist! After the program begins, you will have access to one another,  access to numerous resources and access to all of the mentors,  so there will be various avenues for support.
+As a beginning Python user, it is very common for students to ask for help so knowing where to do so and how to do so is vital to your success.  In this pre-work, I have provided many different opportunities and ways for you to accomplish this, but remember, knowing how to solve problems on your own is key to being an excellent data scientist!
 
 Let's take a look at how you can use a very common references that can be supplements for help:
 
@@ -47,7 +47,6 @@ First things first: Start assembling a good list of references; these will help 
 5. <a href="https://www.amazon.com/Statistics-Absolute-Beginners-English-Introduction-ebook/dp/B0761PT1FD/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1537990372&sr=8-1-spons">Statistics for Absolute Beginners: A Plain English Introduction</a>
 6. <a href="https://www.amazon.com/Statistics-Utterly-Confused-Lloyd-Jaisingh/dp/0071461930/ref=sr_1_1?ie=UTF8&qid=1538660249&sr=8-1&keywords=statistics+for+the+utterly+confused">Statistics for the Utterly Confused</a>
 7. <a href="https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf">Section One: Data Mining for the Masses</a> Note: Do not worry about the mention of RapidMiner and/or OpenOffice, but rather just focus on the content.
-
 
 Another excellent of getting help is to ask for it online! You do this easily and clearly by sharing your notebook with others using the 'share' button at the top of the screen.
 
@@ -66,15 +65,15 @@ For more information on using Google Colab for learning Python, please visit the
 
 <b><h1>Ok, lets dive into the basics of Python!</h1></b>
 
-Now it's time for us to dive into learning the very basics of Python!
+Now it's time for you to dive into learning the very basics of Python!
 
-Before we get started coding you need to be aware of 'how' to properly code in Python. Believe it or not, how you code says a lot about your level of proficiency about Python and even your devotion to it in general. Have a quick read of the following article so you can understand what 'Pythonic' coding and PEP8 are: https://hub.packtpub.com/write-python-code-or-pythonic-code/
+Before you get started coding you need to be aware of 'how' to properly code in Python. Believe it or not, how you code says a lot about your level of proficiency about Python and even your devotion to it in general. Have a quick read of the following article so you can understand what 'Pythonic' coding and PEP8 are: https://hub.packtpub.com/write-python-code-or-pythonic-code/
 
 <b>To begin this task start Jupyter Notebook in Google Collab and create a new Notebook and save it on Google Collab. You will be using this notebook throughout the rest of the pre-work so be sure it is easy to find!</b>
 
 <h1>Libraries or Modules</h1>
 
-Just like in may similar languages, most of the functionality in Python is provided by modules; these are also sometimes referred to as libraries. Python already contains a large number of modules that assist us with many tasks like working with files, working with Math and even common tasks for servers and networking.  The best part about using libraries or modules is we can easily import any of them into our notebooks or projects and utilize everything that has already been created within each module. We can easily accomplish this by using the import statement in Python as follows:
+Just like in may similar languages, most of the functionality in Python is provided by modules; these are also sometimes referred to as libraries. Python already contains a large number of modules that assist us with many tasks like working with files, working with Math and even common tasks for servers and networking.  The best part about using libraries or modules is we can easily import them into our notebooks or projects and utilize everything that has already been created within each module. We can easily accomplish this by using the import statement in Python as follows:
 
 
 ```python
@@ -99,7 +98,7 @@ math.sqrt(25)
 
 returns a value of 5 or the square root of 25.
 
-We'll dive into functions on the next page of the pre-work, but a very useful 'built-in' functions is the dir() function. You can use the dir() function, along with an argument in the parentheses, to see what other options might be available for you to use in with your imports (and later on, your variables and other objects).Many modules also contain predefined values like this example (again with math):
+You'll dive into functions on the next section of the pre-work, but a very useful 'built-in' functions is the dir() function. You can use the dir() function, along with an argument in the parentheses, to see what other options might be available for you to use in with your imports (and later on, your variables and other objects).Many modules also contain predefined values like this example (again with math):
 
 
 ```python
@@ -110,14 +109,14 @@ which returns the value of pi or 3.141592653589793.
 
 What does dir(math) return?
 
-For our use in Data Science and Machine Learning, we'll be using modules to work with files, machine learning, etc. Lastly, we can refer to modules with their own names if we need to in order to clear up any confusion caused by names. For example:
+For your use in Data Science and Machine Learning, you'll be using modules to work with files, machine learning, etc. Lastly, you can refer to modules with their own names if you need to in order to clear up any confusion caused by names. For example:
 
 
 ```python
 import math as mt
 ```
 
-This allows us to then us mt in the place of the module name math. We use the new name when we use the module as follows:
+This allows you to then us <b>mt</b> in the place of the module name <b>math</b>. You use the new name when we use the module as follows:
 
 
 ```python
@@ -144,14 +143,14 @@ Using the # in front of a line of code is how we comment code in Python. Do not 
 
 This is an example of a Numpy array and something we'll be covering a little later.
 
-Now we use a the mean function from within numpy to obtain the mean of the entire array of numbers as follows:
+Now you use a the mean function from within numpy to obtain the mean of the entire array of numbers as follows:
 
 
 ```python
 np.mean(data_one)
 ```
 
-Notice how we called np to reference the numpy module?
+Notice how you called <b>np</b> to reference the numpy module?
 
 <b>Now it is your turn! Use three predefined functions with <i>math</i> to obtain information about the data stored in the numpy array; note any issues you encounter along the way as comments in your notebook. These will serve you well later as lesson learned that you have documented and can reference.</b>
 
@@ -175,11 +174,11 @@ print('I Love Python')
 
 Prints out the sentence I Love Python (anything in quotes is treated as a string, but more on this in just a sec!)
 
-We will not be writing any custom functions for our analysis, but you are highly encouraged to experiment with writing your own!
+We will not be writing any custom functions for our analysis here, but you are highly encouraged to experiment with writing your own!
 
 Python has a number of functions and types built into it that are always available. They are listed <a href="https://docs.python.org/3/library/functions.html">here </a>in alphabetical order.
 
-As we previously discovered, one of these built-in functions is the dir() function. You can use the dir() function, along with an argument in the parentheses, to see what other options might be available for you to use in your projects. For example:
+As was previously discovered, one of these built-in functions is the dir() function. You can use the dir() function, along with an argument in the parentheses, to see what other options might be available for you to use in your projects. For example:
 
 
 ```python
@@ -296,14 +295,14 @@ This returns the second and third element in the list [ray ,mike]; note that the
 
 <b>Dictionaries</b>
 
-Dictionaries are like lists, except that each element is a key-value pair. The syntax for dictionaries is {key1 : value1, ...}:. Here s an example:
+Dictionaries are like lists, except that each element is a key-value pair. The syntax for dictionaries is {key1 : value1, ...}:. Here is an example:
 
 
 ```python
 tel = {'jack': 4098, 'sape': 4139}
 ```
 
-We can easily reference elements within a dictionary by simply calling their key like such:
+You can easily reference elements within a dictionary by simply calling their key like such:
 
 
 ```python
@@ -320,7 +319,7 @@ This returns the value of 'jack', which is 4098.
 
 <hr></hr>
 
-There are numerous resources where one can get help and numerous tutorials, although many arent really for novice Python users. We feel strongly that <a href="http://greenteapress.com/thinkpython2/thinkpython2.pdf">Think Python</a> is a good starting point for Python beginners if you'd like to continue your journey there after working through this pre-work. 
+There are numerous resources where one can get help and numerous tutorials, although many arent really for novice Python users. I feel strongly that <a href="http://greenteapress.com/thinkpython2/thinkpython2.pdf">Think Python</a> is a good starting point for Python beginners if you'd like to continue your journey there after working through this pre-work. 
 
 
 
