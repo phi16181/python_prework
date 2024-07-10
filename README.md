@@ -2,7 +2,7 @@
 
 In order for you to be successful in ML, you need to understand how to utilize the Python programming language for data science and data analytics. You might also be using tools like R as well, but you’ll be starting your journey with Python so I’ve provided some resources to help you get started early. 
 
-Before moving on, it is a great idea to come up to speed on some foundational concepts of data analytics so you can better understand 'how' you'll be using Python to solve problems within this space. <a href="https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf">Section One: Data Mining for the Masses</a> is a great place to start your pre-work reading. 
+Before moving on, it is a great idea to come up to speed on some foundational concepts of data analytics so you can better understand 'how' you'll be using Python to solve problems within this space.  
 
 It is very important for you to understand that we do not use the Python programming language in the same manner that a software engineer would.  In other words,  you are not learning to be programmers, per se, but rather how to use Python to solve real-world data analytics and data science problems. We most certainly will be writing code,  but not in the same manor as someone that would be developing a full piece of software would.
 
